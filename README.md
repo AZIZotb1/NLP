@@ -1,7 +1,7 @@
 # Natural Language Processing Labs
 
 A collection of Jupyter notebooks covering core Natural Language Processing techniques, from text
-pre-processing and n-gram language models to word embeddings, neural networks, transformers and attention.
+pre-processing and n-gram language models to word embeddings, neural networks, attention and transformers.
 
 ## Contents
 
@@ -18,6 +18,7 @@ pre-processing and n-gram language models to word embeddings, neural networks, t
 | [Lab09](Lab09) | Named Entity Recognition | spaCy NER, rule-based entity matching, training a custom NER model |
 | [Lab10](Lab10) | Machine Translation | LSTM encoder–decoder for English → French translation, BLEU evaluation |
 | [Lab11](Lab11) | Attention | RNN with attention for question answering, attention-weight visualization |
+| [Lab12](Lab12) | Transformers | Tokenization, embeddings and self-attention in DistilBERT, sentiment prediction, exploring BERT layers and attention heads |
 
 ## Requirements
 
